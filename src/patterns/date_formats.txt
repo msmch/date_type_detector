@@ -1,0 +1,10 @@
+%Y-%m-%d
+%Y/%m/%d
+%m/%d/%Y
+%d-%m-%Y
+%d/%m/%Y
+%Y%m%d
+%b %d, %Y
+%B %d, %Y
+%d %b %Y
+%d %B %Y
