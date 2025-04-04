@@ -39,6 +39,11 @@ sh setup_venv.sh
 maturin build --release
 ```
 
+Or check build_package.sh file where you can specify command for your OS and run
+```bash
+sh build_package.sh
+``` 
+
 4. Install the built wheel
 ```bash
 pip install target/wheels/date_type_detector-*.whl
